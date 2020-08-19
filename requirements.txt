@@ -1,0 +1,4 @@
+Python==3.7.3
+Pandas==1.0.3
+Numpy==1.18.1
+Streamlit==0.65.2
